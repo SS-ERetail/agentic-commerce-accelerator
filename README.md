@@ -40,4 +40,12 @@ The prototype simulates a **Retrieval-Augmented Generation (RAG)** ingestion flo
 
 3. Bash
 streamlit run app.py
-   
+
+ ## 🟢 Live MVP: App Run-time Screenshots
+
+ <img width="940" height="493" alt="image" src="https://github.com/user-attachments/assets/4b7d1bbc-8d7a-4ef6-af30-6f7dbbb5d310" />
+ <img width="940" height="693" alt="image" src="https://github.com/user-attachments/assets/4422d6e3-6019-4d06-9d81-fa41c7c58cd1" />
+ <img width="940" height="694" alt="image" src="https://github.com/user-attachments/assets/9c228e8f-a808-42e9-b43a-a54cc040a1fc" />
+
+
+
